@@ -15,7 +15,7 @@
     "handlebars": "s-cradle/handlebars.js#spike"
   },
   "peerDependencies": {
-    "rendr": ">=0.5.0-rc1"
+    "rendr": "s-cradle/rendr#debug-v3"
   },
   "keywords": [
     "rendr",
