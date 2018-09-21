@@ -14,9 +14,6 @@
     "underscore": "1.5.2",
     "handlebars": "s-cradle/handlebars.js#spike"
   },
-  "peerDependencies": {
-    "rendr": "s-cradle/rendr#debug-v3"
-  },
   "keywords": [
     "rendr",
     "handlebars",
